@@ -1,7 +1,6 @@
 # Hi, I'm Jax 👋
 
 ### AI Master's Student @ UNSW Sydney  
-Building practical AI, machine learning, and computer vision systems.
 
 I'm currently completing a **Master of Artificial Intelligence at UNSW** and developing my skills across machine learning, deep learning, software engineering, and applied AI.
 
